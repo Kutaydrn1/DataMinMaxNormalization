@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 from urllib.request import urlopen
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import LabelEncoder
 
 url="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
 
